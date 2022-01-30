@@ -79,12 +79,13 @@ Named one of the  authors in 2019. Also wrote .............:
   - [How to remove condescending language from documentation](.....)
 <br><br>
 
-**Product Design 4 Beginners** @ [Daftcode Academy](https://daftacademy.com/) _(Nov 2020 - Dec 2020 )_ <br>
-Built [Tentilex](), a wearable armband that records your hand movement and generates a live 3D-model. 
+**Product Design 4 Beginners** @ [Daftcode Academy](https://daftacademy.com/) _(Oct 2020 - Dec 2020 )_ <br>
+Material scope of the course: 1. 
+<br><br>
 
-**Python 4 Beginners** @ [Daftcode Academy](https://daftacademy.com/) _(Nov 2018 - Dec 2018)_ <br>
-Named one of the  authors in 2019. Also wrote .............:
-  - [How to remove condescending language from documentation](.....)
+**Python 4 Beginners Certificate** @ [Daftcode Academy](https://daftacademy.com/) _(Nov 2018 - Dec 2018)_ <br>
+Material scope of the course: 1. Basic data types and structures, operators, conditional statements; 2. Function and arguments, docstrings, import ; 3. Basic of object-oriented programming, magic methods, conventions; 4. Exceptions, work with files, contextmanager; 5. Virtual environment, requests, respons parsing; 6. Database and table, data visualization, setuptools; 7. Make your own game, loops, incremental application development; 8. Python unitests, pytest, TDD.
+  - Completed with Certificate of Completion which has been given to students with high scores from task results. 
 <br><br>
 
 **Zoopsychology - spec. cats** @ [Zoopsychologia Łapa w Dłoń](https://www.zoopsychologialapawdlon.com/) _(Dec 2020 - in progress)_ <br>
@@ -92,14 +93,14 @@ Named one of the  authors in 2019. Also wrote .............:
   - [How to remove condescending language from documentation](.....)
 <br><br>
 
-**Small Animal/Canine Massage Program** @ [Klinika Rehabilitacji Zwierząt](https://www.fizjopetmed.pl/) _(Aug 2020)_ <br>
-Named one of the  authors in 2019. Also wrote .............:
+**Small Animal/Canine Massage Program Certificate** @ [Klinika Rehabilitacji Zwierząt](https://www.fizjopetmed.pl/) _(Aug 2020)_ <br>
+Material scope of the course: 1. Methods and techniques of medical massage for animals; 2. Palpation patient examination; 3. Localization of anatomical structures; 4. Methodology of passive excersises; 5. 
   - [How to remove condescending language from documentation](.....)
 <br><br>
 
-**Petsitter** @ [COAPE](https://coape.pl/) _(Apr 2020)_ <br>
-Named one of the  authors in 2019. Also wrote .............:
-  - [How to remove condescending language from documentation](.....)
+**Pet-sitter Certificate** @ [COAPE](https://coape.pl/) _(Apr 2020)_ <br>
+Material scope of the course: 1. Dog care; 2. Cat care; 3. Other pet care; 4. First Aid in emergency; 5. Rules for organising the pet-sitter's work.
+  - PET-SITTER professional course for pet guardians organised by COAPE (worldwide excellence in pet behaviour education).
 <br><br>
 
 **Licensed Tourist Guide** @ [Ministry of Sport and Tourism](https://www.gov.pl/web/sport) _(2011)_ <br>
