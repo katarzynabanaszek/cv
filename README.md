@@ -111,7 +111,7 @@ Material scope:
 <br><br>
 
 **Licensed Tourist Guide** @ [Ministry of Sport and Tourism](https://www.gov.pl/web/sport) _(2011)_ <br>
-6 months course of Tourist Guide occupation, knowledge of worldwide destinations, european geography, with internal training in Prague (Czech Republic).
+6 months course of Tourist Guide occupation, knowledge of worldwide destinations, european geography, weekend internal training in Prague (Czech Republic).
 
 Completed with 2-day state examination.
 <br><br>
