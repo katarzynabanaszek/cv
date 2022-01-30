@@ -103,7 +103,14 @@ PET-SITTER professional course for pet guardians organised by COAPE (worldwide e
 Material scope: 1. Dog care; 2. Cat care; 3. Other pet care; 4. First Aid in emergency; 5. Rules for organising the pet-sitter's work.
 <br><br>
 
+**Youth in Action programme - Leaders Certificate** @ [Youthpass](https://www.youthpass.eu/en/) _(May 2013)_ <br>
+Training for leaders of Youth in Action programme completed with Certificate.
+Material scope: 
+<br><br>
+
 **Licensed Tourist Guide** @ [Ministry of Sport and Tourism](https://www.gov.pl/web/sport) _(2011)_ <br>
+6 months course of Tourist Guide occupation, worldwide destinations, european geography, with internal exam in Prague (CZE).
+  - Finished with 2-day state examination.
 <br><br>
 **Driving License** _(2008)_ <br>
 Category B
