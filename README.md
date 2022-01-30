@@ -90,8 +90,7 @@ Material scope: 1. Basic data types and structures, operators, conditional state
 <br><br>
 
 **Zoopsychology - spec. cats** @ [Zoopsychologia Łapa w Dłoń](https://www.zoopsychologialapawdlon.com/) _(Dec 2020 - in progress)_ <br>
-Named one of the  authors in 2019. Also wrote .............:
-  - [How to remove condescending language from documentation](.....)
+Material scope: 1. Cat evolution, process of domestication and breeds formation.; 2. Cat Ethogram; 3. Cat development and socialization, proper development support, neurological stimulation; 4. The welfare of companion animals; 5. Communication and body language of animals; 6. Learning mechanism and training techniques; 7. Influence of diet on animal behavior; 8. Influence of emotions on animal behavior; 9. Somatic diseases and behavioral disorders; 10. Animal psychopathology and behavioral problems of cats, classification of behavior disorders and prevention; 11. Aggression and aggressive behavior of cats; 12. Working with shelter animals; 13. Therapies, enriching the environment; 14. Case study; 15. The zoopsychologist's code of ethics; 16. Communication and rules of working with the client, interview and cooperation with the guardian of the animal.
 <br><br>
 
 **Small Animal/Canine Massage Program Certificate** @ [Klinika Rehabilitacji Zwierząt](https://www.fizjopetmed.pl/) _(Aug 2020)_ <br>
