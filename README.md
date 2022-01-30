@@ -85,6 +85,7 @@ Material scope: 1.
 
 **Python 4 Beginners Certificate** @ [Daftcode Academy](https://daftacademy.com/) _(Nov 2018 - Dec 2018)_ <br>
 Completed with Certificate of Completion which has been given to students with high scores from tasks results. 
+
 Material scope: 1. Basic data types and structures, operators, conditional statements; 2. Functions and arguments, docstrings, import ; 3. Basic of object-oriented programming, magic methods, conventions; 4. Exceptions, work with files, contextmanager; 5. Virtual environment, requests, response parsing; 6. Database and table, data visualization, setuptools; 7. Make your own game, loops, incremental application development; 8. Python unitests, pytest, TDD.
 <br><br>
 
@@ -100,6 +101,7 @@ Material scope: 1. Methods and techniques of medical massage for animals; 2. Pal
 
 **Pet-sitter Certificate** @ [COAPE](https://coape.pl/) _(Apr 2020)_ <br>
 PET-SITTER professional course for pet guardians organised by COAPE (worldwide excellence in pet behaviour education).
+
 Material scope: 1. Dog care; 2. Cat care; 3. Other pet care; 4. First Aid in emergency; 5. Rules for organising the pet-sitter's work.
 <br><br>
 
@@ -109,9 +111,11 @@ Material scope:
 <br><br>
 
 **Licensed Tourist Guide** @ [Ministry of Sport and Tourism](https://www.gov.pl/web/sport) _(2011)_ <br>
-6 months course of Tourist Guide occupation, worldwide destinations, european geography, with internal exam in Prague (CZE).
-  - Finished with 2-day state examination.
+6 months course of Tourist Guide occupation, knowledge of worldwide destinations, european geography, internal training in Prague (Czech Republic).
+
+Completed with 2-day state examination.
 <br><br>
+
 **Driving License** _(2008)_ <br>
 Category B
 <br><br>
