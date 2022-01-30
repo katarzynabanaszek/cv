@@ -66,7 +66,7 @@ services); cross-sell products and introduce new ones; issue receipts, refunds, 
     
 ## 👩🏼‍🎓 Education
 
-**Master’s degree programme** studying Financial Management and Accounting<br>
+**Master’s degree programme** for Financial Management and Accounting<br>
 [University of Warsaw](http://www.wz.uw.edu.pl/en) - Warsaw, Poland _(2012 - 2013)_
 
 **Bachelor of Arts** in Tourism and Recreation Studies<br>
