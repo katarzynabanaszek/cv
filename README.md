@@ -19,7 +19,7 @@ Od jakiegoś czasu pogłębiam wiedzę z branży IT - projektowanie (UX i grafik
 **Senior Sales Specialist** @ [LOT Travel](https://www.lottravel.com/dla-firm/) _(Jul 2019 - present)_ <br>
 • In addition to the responsibilites listed below, maintain statistical and financial records of the entire office; office managment.
 • Coordinate with other business partners to facilitate a positive experience for clients.
-• Attend webinars, conferences and other educational programs
+• Attend webinars, conferences and other educational programs.
   - **_Technologies used:_** Amadeus GDS, Sabre GDS, BSP, Mikrosystem - KNF/eKNF/Flight Finder, Microsoft Office.
     <br><br>
     
@@ -47,11 +47,11 @@ Coś tu trzeba wpisać
     <br><br>
     
 **Office Manager** @ [Huber Group](https://www.hubergroup.com/pl/en/) _(Aug 2012 - Feb 2013)_ <br>
-• Assist in office management and organization procedures: preparing letters, presentations and reports; ordering furniture; 
+• Assist in office management and organization procedures: preparing letters, presentations and reports; ordering furnitures; 
 dealing with correspondence, complaints and queries; managing office budgets; liaising with staff, suppliers and clients.
-• Answering customer questions, offering customer support, guiding and advising customers.
+• Sales order management and processing in SAP: create, change and display sales orders; product availability check; product allocation; sales order processing with customer down payment; sales order delivery; processing sales documents with customer expected prices; sales billing; claims, returns and refund managment.
 • Support other teams with various administrative tasks.
-• 
+• Amicable debt collection.
   - **_Technologies used:_** SAP, Microsoft Office.
 <br><br>
 
