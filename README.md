@@ -3,8 +3,7 @@
 I can offer high adaptive and organizational skills, care for good atmosphere and communication in the team, high level of empathy, determination in action, accuracy, openness to knowledge and acquiring new skills.
 
 My priority is to further develop the following skills, preferably on a professional path. 
-I have been broadening my knowledge of the IT industry - design (UX and computer graphics), CRM and ERP systems. I also took part in programming courses - Python and Product Design. At the same time, I am interested in the behavior of companion animals (especially cats) and volunteer to help animals in shelter/foundation.
-I'm based in Warsaw, Poland. <br>
+I have been broadening my knowledge of the IT industry - design (UX and computer graphics), CRM and ERP systems. I also took part in programming courses - Python and Product Design. At the same time, I am interested in behavior of companion animals (especially cats. I'm based in Warsaw, Poland. <br>
 
 [Email](mailto:banaszek.kb@gmail.com) / [LinkedIn](https://www.linkedin.com/in/katarzyna-banaszek-201910141/) 
 
