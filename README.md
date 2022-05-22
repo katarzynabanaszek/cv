@@ -154,7 +154,7 @@ Category B
 **Association of Historical Reenactors Of The Middle Ages "Regiment Piechoty Zaciężnej** - Malbork, Poland _(Jan 2012 - Sep 2014)_ <br>
 - Project preparation and application for funding in EU funding programme „Youth in action” (with positive effect).
 - Organization and supervision of the exhibition on Warsaw Tourism Fair "PODRÓŻE".
-- Organization activities and recruiment of new members in Warsaw. 
+- Organization of activities and recruiment of new members in Warsaw. 
   <br><br>
 
 ## 🌟 Interests
