@@ -12,7 +12,7 @@ I'm based in Warsaw, Poland. <br>
 ## �� Experience
 
 **Office Manager** @ [Wood Water](https://woodwater.eu/en/wood-water-2/) _(May 2020 - Dec 2020)_ <br>
-• Product co-creation: creating a label; writing clear compelling copy for various mediums like main website, social media and for trade partners (i.e. Save the Planet, Prezent Marzeń, Wyjątkowy Prezent); creating effective marketing materials.
+- Product co-creation: creating a label; writing clear compelling copy for various mediums like main website, social media and for trade partners (i.e. Save the Planet, Prezent Marzeń, Wyjątkowy Prezent); creating effective marketing materials.
 
 • Brand introduction to e-commerce market; preparation of new commercial offers and acquiring new customers.
 
