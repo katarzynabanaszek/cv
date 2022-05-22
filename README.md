@@ -10,8 +10,11 @@ Od jakiegoś czasu pogłębiam wiedzę z branży IT - projektowanie (UX i grafik
 
 **Office Manager** @ [Wood Water](https://woodwater.eu/en/wood-water-2/) _(May 2020 - Dec 2020)_ <br>
 • Product co-creation: creating a label; writing clear compelling copy for various mediums like main website, social media and for trade partners (i.e. Save the Planet, Prezent Marzeń, Wyjątkowy Prezent); creating effective marketing materials.
+
 • Brand introduction to e-commerce market; preparation of new commercial offers and acquiring new customers.
+
 • Manage contract and price negotiations with service providers.
+
 • Creating effective marketing materials for West Site Fitness Club.
   - **_Technologies used:_** Wordpress, Woocommerce, Adobe Photoshop, Adobe Lightroom, Canva, Microsoft Office.
 <br><br>
@@ -154,25 +157,25 @@ Category B
 ## 📌 On The Side
 
 **Volunteer** @ [Fundacja Kraina Zwierząt](https://krainazwierzat.com.pl/) _(Jun 2021 - Present)_<br>
-Coś tu trzeba wpisać
-  - tu również
-  - no i tu
+• Helping in the cat's temporary home.
+• Carrying out the adoption process.
+• Creating text and graphic materials for social media.
   <br><br>
 
 **Charity Campaign "Kocie Budki"** @ [Akcja Kocie Budki](https://z-p42.www.instagram.com/akcjakociebudki/) - Warsaw, Poland _(Jan 2020 - Feb 2021)_<br>
-• Organizacja oraz nadzorowanie przebiegu akcji charytatywnej mającej na celu poprawę sytuacji bytowej bezdomnych kotów na terenie Warszawy i okolic
+• Organization and supervision of a charity campaign aimed at improving the living conditions of homeless cats in Warsaw and neighberhood. 
 
-• Współpraca z fundacjami oraz stowarzyszeniami wspomagającymi bezdomne zwierzęta
+• Cooperation with animals associations and foundations.
 
-• Prowadzenie zbiórki środków na ww. akcję oraz budowa kocich domów
+• Conducting a charity fundraising for the construction of feral cat shelters.
   <br><br>
   
-**Association for historical reconstruction "Regiment Piechoty Zaciężnej** - Malbork, Poland _(Jan 2012 - Sep 2014)_ <br>
-• Przygotowywanie projektów oraz wnioskowanie o dofinansowanie unijne w ramach programu Unii Europejskiej „Młodzież w działaniu” (z pozytywnym skutkiem)
+**Association of Historical Reenactors Of The Middle Ages "Regiment Piechoty Zaciężnej** - Malbork, Poland _(Jan 2012 - Sep 2014)_ <br>
+• Project preparation and application for funding in EU funding programme „Youth in action” (with positive effect).
 
-• Organizacja oraz nadzorowanie wystawy Stowarzyszenia Rekonstrukcyjnego „Regiment Piechoty Zaciężnej” na Warszawskich Targach Turystycznych PODRÓŻE
+• Organization and supervision of the exhibition on Warsaw Tourism Fair "PODRÓŻE".
 
-• Organizacja działań oraz rekrutacja nowych członków grupy na terenie Warszawy
+• Organization activities and recruiment of new members in Warsaw. 
   <br><br>
 
 ## 👩🏼‍🎓 Interests
