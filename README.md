@@ -146,7 +146,7 @@ Category B
 - Conducting a charity fundraiser for feral cat shelters construction.
   <br><br>
   
-**Association of Historical Reenactors Of The Middle Ages "Regiment Piechoty Zaciężnej** - Malbork, Poland _(Jan 2012 - Sep 2014)_ <br>
+**Association of Historical Reenactors Of The Middle Ages "Regiment Piechoty Zaciężnej"** - Malbork, Poland _(Jan 2012 - Sep 2014)_ <br>
 - Project preparation and application for funding in EU funding programme „Youth in action” (with positive outcome).
 - Organization and supervision of the exhibition on Warsaw Tourism Fair "PODRÓŻE".
 - Organization of activities and recruiment of new members in Warsaw. 
