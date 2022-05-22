@@ -9,7 +9,7 @@ I'm based in Warsaw, Poland. <br>
 [Email](mailto:banaszek.kb@gmail.com) / [LinkedIn](https://www.linkedin.com/in/katarzyna-banaszek-201910141/) 
 
 
-## �� Experience
+## 💻 Experience
 
 **Office Manager** @ [Wood Water](https://woodwater.eu/en/wood-water-2/) _(May 2020 - Dec 2020)_ <br>
 - Product co-creation: creating a label; writing clear compelling copy for various mediums like main website, social media and for trade partners (i.e. Save the Planet, Prezent Marzeń, Wyjątkowy Prezent); creating effective marketing materials.
@@ -78,7 +78,7 @@ services); cross-selling products and introducing new ones.
   - **_Technologies used:_** GOLD System, Microsoft Office.
     <br><br>
     
-## 👩🏼‍🎓 Education
+## 🎓 Education
 
 **Master’s degree programme** for Financial Management and Accounting<br>
 [University of Warsaw](http://www.wz.uw.edu.pl/en) - Warsaw, Poland _(2012 - 2013)_
@@ -86,7 +86,7 @@ services); cross-selling products and introducing new ones.
 **Bachelor of Arts** in Tourism and Recreation Studies<br>
 [Warsaw University of Life Sciences](https://www.sggw.edu.pl/en/) - Warsaw, Poland _(2008 - 2011)_
 
-## � Courses
+## ✒️ Courses
 
 **Google UX Design** @ [Google](https://grow.google/certificates/ux-design/#?modal_active=none) _(Jan 2022 - in progress)_ <br>
 <br><br>
@@ -157,6 +157,6 @@ Category B
 - Organization activities and recruiment of new members in Warsaw. 
   <br><br>
 
-## 👩🏼‍🎓 Interests
+## 🌟 Interests
 
 New technology, UX, ethology, photography, books & movies, board games, travelling, trekking, balance sports like bouldering, slacklining, trickboarding. <br>
