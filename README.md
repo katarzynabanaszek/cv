@@ -14,7 +14,8 @@ Od jakiegoś czasu pogłębiam wiedzę z branży IT - projektowanie (UX i grafik
 • Brand introduction to e-commerce market; preparation of new commercial offers and acquiring new customers.
 
 • Manage contract and price negotiations with service providers.
-•
+
+• Creating effective marketing materials for West Site Fitness Club.
   - **_Technologies used:_** Wordpress, Woocommerce, Adobe Photoshop, Adobe Lightroom, Canva, Microsoft Office.
 <br><br>
 
