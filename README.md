@@ -20,9 +20,9 @@ I'm based in Warsaw, Poland. <br>
 <br><br>
 
 **Business Desk Senior Sales Specialist** @ [LOT Travel](https://www.lottravel.com/dla-firm/) _(Jul 2019 - present)_ <br>
-- In addition to the responsibilites listed below, maintain statistical and financial records of the entire office; office managment.
-- Coordinate with other business partners to facilitate a positive experience for clients.
-- Attend webinars, conferences and other educational programs.
+- In addition to the responsibilites listed below as a BD Sales Specialist, maintain statistical and financial records of the entire office; office managment.
+- Coordination with other business partners to facilitate a positive experience for clients.
+- Attending webinars, conferences and other educational programs.
   - **_Technologies used:_** Amadeus GDS, Sabre GDS, BSP, Mikrosystem - KNF/eKNF/Flight Finder, Microsoft Office.
     <br><br>
     
