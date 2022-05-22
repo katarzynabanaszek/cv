@@ -29,7 +29,7 @@ I have been broadening my knowledge of the IT industry - design (UX and computer
 - Ensuring high levels of customer satisfaction through excellent sales service 
 for VIP clients - Polish government; ascertaining customers needs and wants; dealing with occurring travel problems, complaints or refunds.
 - Offering face to face and telephone/e-mail advice to corporate customers.
-- Selling and managing airline reservations and tickets: ticket issue, voluntary and invluntary changes, ticket refudns in Amadeus and Sabre GDS systems.
+- Selling and managing airline reservations and tickets: ticket issue, voluntary and involuntary changes, ticket refudns in Amadeus and Sabre GDS systems.
 - Following all companies policies and procedures.
   - **_Technologies used:_** Amadeus GDS, Sabre GDS, Mikrosystem - KNF/eKNF/Flight Finder, Microsoft Office.
     <br><br>
