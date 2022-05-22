@@ -155,7 +155,6 @@ Category B
 ## 🌟 Interests
 
 New technology, UX, ethology, photography, books & movies, board games, travelling, trekking, balance sports like bouldering, slacklining, trickboarding. <br>
- <br><br>
  
 ##
 I hereby give consent for my personal data included in my application to be processed for the purposes of the recruitment process under the
