@@ -27,11 +27,11 @@ I'm based in Warsaw, Poland. <br>
     <br><br>
     
 **Business Desk Sales Specialist** @ [LOT Travel](https://www.lottravel.com/dla-firm/) _(Feb 2015 - Jul 2019)_ <br>
-- Ensure high levels of customer satisfaction through excellent sales service 
-for VIP clients - Polish government; ascertain customers needs and wants; deal with occurring travel problems, complaints or refunds.
+- Ensuring high levels of customer satisfaction through excellent sales service 
+for VIP clients - Polish government; ascertaining customers needs and wants; dealing with occurring travel problems, complaints or refunds.
 - Offering face to face and telephone/e-mail advice to corporate customers.
 - Selling and managing airline reservations and tickets: ticket issue, voluntary and invluntary changes, ticket refudns in Amadeus and Sabre GDS systems.
-- Follow all companies policies and procedures.
+- Following all companies policies and procedures.
   - **_Technologies used:_** Amadeus GDS, Sabre GDS, Mikrosystem - KNF/eKNF/Flight Finder, Microsoft Office.
     <br><br>
 
