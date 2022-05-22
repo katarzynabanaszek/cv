@@ -1,9 +1,11 @@
 # Katarzyna Banaszek
 
-_Moim priorytetem jest dalsze rozwijanie poniższych umiejętności, najlepiej na ścieżce zawodowej.
-Od jakiegoś czasu pogłębiam wiedzę z branży IT - projektowanie (UX i grafika komputerowa), systemy CRM oraz ERP, brałam też udział w kursach programowania (Python). Równolegle interesuję się behawiorystyką zwierząt towarzyszących (specjalizacja koty) oraz działam na rzecz bezdomnych zwierząt. Ze swojej strony mogę zaoferować wysokie zdolności adaptacyjne oraz organizacyjne, dbałość o dobrą atmosferę i komunikację w zespole, wysoki poziom empatii, determinację w działaniu, dokładność, otwartość na wiedzę i zdobywanie nowych umiejętności.... based in Warsaw, Poland_ <br>
+Ze swojej strony mogę zaoferować wysokie zdolności adaptacyjne oraz organizacyjne, dbałość o dobrą atmosferę i komunikację w zespole, wysoki poziom empatii, determinację w działaniu, dokładność, otwartość na wiedzę i zdobywanie nowych umiejętności.
 
-[Email](mailto:banaszek.kb@gmail.com) / [LinkedIn](https://www.linkedin.com/in/katarzyna-banaszek-201910141/) / [Behance](https://www.behance.net/katarzybanasze)
+Moim priorytetem jest dalsze rozwijanie poniższych umiejętności, najlepiej na ścieżce zawodowej. 
+Od jakiegoś czasu pogłębiam wiedzę z branży IT - projektowanie (UX i grafika komputerowa), systemy CRM oraz ERP, brałam też udział w kursach programowania (Python). Równolegle interesuję się behawiorystyką zwierząt towarzyszących (specjalizacja koty) oraz działam na rzecz bezdomnych zwierząt. I'm based in Warsaw, Poland_ <br>
+
+[Email](mailto:banaszek.kb@gmail.com) / [LinkedIn](https://www.linkedin.com/in/katarzyna-banaszek-201910141/) 
 
 
 ## �� Experience
@@ -158,7 +160,9 @@ Category B
 
 **Volunteer** @ [Fundacja Kraina Zwierząt](https://krainazwierzat.com.pl/) _(Jun 2021 - Present)_<br>
 • Helping in the cat's temporary home.
+
 • Carrying out the adoption process.
+
 • Creating text and graphic materials for social media.
   <br><br>
 
