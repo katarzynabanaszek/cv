@@ -20,7 +20,9 @@ Od jakiegoś czasu pogłębiam wiedzę z branży IT - projektowanie (UX i grafik
 
 **Senior Sales Specialist** @ [LOT Travel](https://www.lottravel.com/dla-firm/) _(Jul 2019 - present)_ <br>
 • In addition to the responsibilites listed below, maintain statistical and financial records of the entire office; office managment.
+
 • Coordinate with other business partners to facilitate a positive experience for clients.
+
 • Attend webinars, conferences and other educational programs.
   - **_Technologies used:_** Amadeus GDS, Sabre GDS, BSP, Mikrosystem - KNF/eKNF/Flight Finder, Microsoft Office.
     <br><br>
@@ -28,15 +30,20 @@ Od jakiegoś czasu pogłębiam wiedzę z branży IT - projektowanie (UX i grafik
 **Sales Specialist** @ [LOT Travel](https://www.lottravel.com/dla-firm/) _(Feb 2015 - Jul 2019)_ <br>
 • Ensure high levels of customer satisfaction through excellent sales service 
 for VIP clients - Polish government; ascertain customers needs and wants; deal with occurring travel problems, complaints or refunds.
+
 • Offering face to face and telephone/e-mail advice to corporate customers.
+
 • Selling and managing airline reservations and tickets: ticket issue, voluntary and invluntary changes, ticket refudns in Amadeus and Sabre GDS systems.
+
 • Follow all companies policies and procedures.
   - **_Technologies used:_** Amadeus GDS, Sabre GDS, Mikrosystem - KNF/eKNF/Flight Finder, Microsoft Office.
     <br><br>
 
 **Call Center Junior Sales Specialist** @ [PLL LOT](https://www.lot.com/pl/en) _(Apr 2013 - Jan 2015)_ <br>
 • Planning and selling airline transportations, insurance and other travel services; cross-selling products and introducing new ones.
+
 • Issuing and changing airline tickets in Amadeus GDS.
+
 • Authorization and collection of payments in Adyen.
   - **_Technologies used:_** Amadeus GDS, Adyen, Microsoft Office.
   <br><br>
@@ -51,29 +58,35 @@ Coś tu trzeba wpisać
 **Office Manager** @ [Huber Group](https://www.hubergroup.com/pl/en/) _(Aug 2012 - Feb 2013)_ <br>
 • Assist in office management and organization procedures: preparing letters, presentations and reports; ordering furnitures; 
 dealing with correspondence, complaints and queries; managing office budgets; liaising with staff, suppliers and clients.
+
 • Sales order management and processing in SAP: create, change and display sales orders; product availability check; product allocation; sales order processing with customer down payment; sales order delivery; processing sales documents with customer expected prices; sales billing; claims, returns and refund managment.
+
 • Support other teams with various administrative tasks.
+
 • Amicable debt collection.
   - **_Technologies used:_** SAP, Microsoft Office.
 <br><br>
 
 **Sales Assistant** @ [Baltona](https://www.baltona.pl/) _(Oct 2011 - Apr 2012)_ <br>
 • Maintain outstanding store condition and visual merchandising standards.
+
 • Recommend and display items that match customer needs; manage point-of-sale processes.
+
 • Actively involve in the receiving of new shipments.
   - **_Technologies used:_** Microsoft Office.
     <br><br>
 
 **Shift Manager** @ [Empik](https://www.empik.com/) _(Apr 2011 - Aug 2011)_ <br>
 • Overseeing sales associates; monitoring equipment and merchandise. 
+
 • Cash management; coordinating shift activities.
-• 
   - **_Technologies used:_** GOLD System, Microsoft Office.
     <br><br>
     
 **Customer Assistant** @ [Empik](https://www.empik.com/) _(Feb 2010 - Mar 2011)_ <br>
 • Provide accurate information (e.g. product features, pricing and aftersales
 services); cross-selling products and introducing new ones. 
+
 • Issuing receipts, refunds, tickets.
   - **_Technologies used:_** GOLD System, Microsoft Office.
     <br><br>
