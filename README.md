@@ -1,9 +1,9 @@
 # Katarzyna Banaszek
 
-Ze swojej strony mogę zaoferować wysokie zdolności adaptacyjne oraz organizacyjne, dbałość o dobrą atmosferę i komunikację w zespole, wysoki poziom empatii, determinację w działaniu, dokładność, otwartość na wiedzę i zdobywanie nowych umiejętności.
+I can offer high adaptive and organizational skills, care for a good atmosphere and communication in the team, a high level of empathy, determination in action, accuracy, openness to knowledge and acquiring new skills.
 
-Moim priorytetem jest dalsze rozwijanie poniższych umiejętności, najlepiej na ścieżce zawodowej. 
-Od jakiegoś czasu pogłębiam wiedzę z branży IT - projektowanie (UX i grafika komputerowa), systemy CRM oraz ERP, brałam też udział w kursach programowania (Python). Równolegle interesuję się behawiorystyką zwierząt towarzyszących (specjalizacja koty) oraz działam na rzecz bezdomnych zwierząt. 
+My priority is to further develop the following skills, preferably on a professional path. 
+I have been broaden my knowledge of the IT industry - design (UX and computer graphics), CRM and ERP systems. I also took part in programming courses - Python and Product Design. At the same time, I am interested in the behavior of companion animals (especially cats) and volunteer to help animals in shelter/foundation.
 I'm based in Warsaw, Poland. <br>
 
 [Email](mailto:banaszek.kb@gmail.com) / [LinkedIn](https://www.linkedin.com/in/katarzyna-banaszek-201910141/) 
