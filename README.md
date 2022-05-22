@@ -136,13 +136,13 @@ Category B
 ## 📌 On The Side
 
 **Volunteer** @ [Fundacja Kraina Zwierząt](https://krainazwierzat.com.pl/) _(Jun 2021 - Present)_<br>
-- Helping in the cat's temporary home.
+- Helping at the cat's temporary home.
 - Carrying out the adoption process.
 - Creating text and graphic materials for social media.
   <br><br>
 
 **Charity Campaign "Kocie Budki"** @ [Akcja Kocie Budki](https://z-p42.www.instagram.com/akcjakociebudki/) - Warsaw, Poland _(Jan 2020 - Feb 2021)_<br>
-- Organization and supervision of a charity campaign aimed at improving the living conditions of homeless cats in Warsaw and neighberhood. 
+- Organization and supervision of a charity campaign aimed at improving the living conditions of homeless cats in Warsaw and neighborhood. 
 - Cooperation with animals associations and foundations.
 - Conducting a charity fundraising for the construction of feral cat shelters.
   <br><br>
