@@ -43,25 +43,25 @@ for VIP clients - Polish government; ascertaining customers needs and wants; dea
   <br><br>
 
 **Sales Specialist** @ [Jack Wolfskin](https://www.jack-wolfskin.pl/) _(Oct 2012 - Apr 2013)_ <br>
-- Answer customer inquiries; acts as a resource for customers and retailers in regards to product and technical questions.
-- Communicate with Product Managers to understand new and changing products.
-- Process customer orders and returns.
+- Answering customer inquiries; acting as a resource for customers and retailers in regards to product and technical questions.
+- Communicating with Product Managers to understand new and changing products.
+- Processing customer orders and returns.
   - **_Technologies used:_** Subiekt GT, Microsoft Office.
     <br><br>
     
 **Office Manager** @ [Huber Group](https://www.hubergroup.com/pl/en/) _(Aug 2012 - Feb 2013)_ <br>
-- Assist in office management and organization procedures: preparing letters, presentations and reports; ordering furnitures; 
+- Assisting in office management and organization procedures: preparing letters, presentations and reports; ordering furnitures; 
 dealing with correspondence, complaints and queries; managing office budgets; liaising with staff, suppliers and clients.
-- Sales order management and processing in SAP: create, change and display sales orders; product availability check; product allocation; sales order processing with customer down payment; sales order delivery; processing sales documents with customer expected prices; sales billing; claims, returns and refund managment.
-- Support other teams with various administrative tasks.
+- Sales order management and processing in SAP: creating, changing and displaying sales orders; product availability check; product allocation; sales order processing with customer down payment; sales order delivery; processing sales documents with customer expected prices; sales billing; claims, returns and refund managment.
+- Supporting other teams with various administrative tasks.
 - Amicable debt collection.
   - **_Technologies used:_** SAP, Microsoft Office.
 <br><br>
 
 **Sales Assistant** @ [Baltona](https://www.baltona.pl/) _(Oct 2011 - Apr 2012)_ <br>
-- Maintain outstanding store condition and visual merchandising standards.
-- Recommend and display items that match customer needs; manage point-of-sale processes.
-- Actively involve in the receiving of new shipments.
+- Maintaining outstanding store condition and visual merchandising standards.
+- Recommending and displaying items that match customer needs; managing point-of-sale processes.
+- Active involvement in receiving of new shipments.
   - **_Technologies used:_** Microsoft Office.
     <br><br>
 
@@ -72,7 +72,7 @@ dealing with correspondence, complaints and queries; managing office budgets; li
     <br><br>
     
 **Customer Assistant** @ [Empik](https://www.empik.com/) _(Feb 2010 - Mar 2011)_ <br>
-- Provide accurate information (e.g. product features, pricing and aftersales
+- Providing accurate information (e.g. product features, pricing and aftersales
 services); cross-selling products and introducing new ones. 
 - Issuing receipts, refunds, event tickets.
   - **_Technologies used:_** GOLD System, Microsoft Office.
