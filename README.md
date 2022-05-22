@@ -91,42 +91,39 @@ services); cross-selling products and introducing new ones.
 **Google UX Design** @ [Google](https://grow.google/certificates/ux-design/#?modal_active=none) _(Jan 2022 - in progress)_ <br>
 <br><br>
 **Product Design 4 Beginners** @ [Daftcode Academy](https://daftacademy.com/) _(Oct 2020 - Dec 2020 )_ <br>
-Material scope: 1. UX & UI design; 2. How to build digital products; 3. Role of soft skills - using practical examples from their day-to-day job.
+- Material scope: 1. UX & UI design; 2. How to build digital products; 3. Role of soft skills - using practical examples from their day-to-day job.
 <br><br>
 
 **Python 4 Beginners Certificate** @ [Daftcode Academy](https://daftacademy.com/) _(Nov 2018 - Dec 2018)_ <br>
-Completed with Certificate of Completion which has been given to students with high scores from tasks results. 
-
-Material scope: 1. Basic data types and structures, operators, conditional statements; 2. Functions and arguments, docstrings, import ; 3. Basic of object-oriented programming, magic methods, conventions; 4. Exceptions, work with files, contextmanager; 5. Virtual environment, requests, response parsing; 6. Database and table, data visualization, setuptools; 7. Make your own game, loops, incremental application development; 8. Python unitests, pytest, TDD.
+- Completed with Certificate of Completion which has been given to students with high scores from tasks results. 
+- Material scope: 1. Basic data types and structures, operators, conditional statements; 2. Functions and arguments, docstrings, import ; 3. Basic of object-oriented programming, magic methods, conventions; 4. Exceptions, work with files, contextmanager; 5. Virtual environment, requests, response parsing; 6. Database and table, data visualization, setuptools; 7. Make your own game, loops, incremental application development; 8. Python unitests, pytest, TDD.
 <br><br>
 
 **Zoopsychology - spec. cats** @ [Zoopsychologia Łapa w Dłoń](https://www.zoopsychologialapawdlon.com/) _(Dec 2020 - in progress)_ <br>
-Material scope: 1. Cat evolution, process of domestication and breeds formation.; 2. Cat Ethogram; 3. Cat development and socialization, proper development support, neurological stimulation; 4. The welfare of companion animals; 5. Communication and body language of animals; 6. Learning mechanism and training techniques; 7. Influence of diet on animal behavior; 8. Influence of emotions on animal behavior; 9. Somatic diseases and behavioral disorders; 10. Animal psychopathology and behavioral problems of cats, classification of behavior disorders and prevention; 11. Aggression and aggressive behavior of cats; 12. Working with shelter animals; 13. Therapies, enriching the environment; 14. Case study; 15. The zoopsychologist's code of ethics; 16. Communication and rules of working with the client, interview and cooperation with the guardian of the animal.
+- Material scope: 1. Cat evolution, process of domestication and breeds formation.; 2. Cat Ethogram; 3. Cat development and socialization, proper development support, neurological stimulation; 4. The welfare of companion animals; 5. Communication and body language of animals; 6. Learning mechanism and training techniques; 7. Influence of diet on animal behavior; 8. Influence of emotions on animal behavior; 9. Somatic diseases and behavioral disorders; 10. Animal psychopathology and behavioral problems of cats, classification of behavior disorders and prevention; 11. Aggression and aggressive behavior of cats; 12. Working with shelter animals; 13. Therapies, enriching the environment; 14. Case study; 15. The zoopsychologist's code of ethics; 16. Communication and rules of working with the client, interview and cooperation with the guardian of the animal.
 <br><br>
 
 **Small Animal/Canine Massage Program Certificate** @ [Klinika Rehabilitacji Zwierząt](https://www.fizjopetmed.pl/) _(Aug 2020)_ <br>
-Material scope: 1. Methods and techniques of medical massage for animals; 2. Palpation patient examination; 3. Localization of anatomical structures; 
+- Material scope: 1. Methods and techniques of medical massage for animals; 2. Palpation patient examination; 3. Localization of anatomical structures; 
 4. Methodology of passive excersises; 5. Assessment of locomotor disorders impact on muscular system.
 <br><br>
 
 **Pet-sitter Certificate** @ [COAPE](https://coape.pl/) _(Apr 2020)_ <br>
-PET-SITTER professional course for pet guardians organised by COAPE (worldwide excellence in pet behaviour education).
-
-Material scope: 1. Dog care; 2. Cat care; 3. Other pet care; 4. First Aid in emergency; 5. Rules for organising the pet-sitter's work.
+- PET-SITTER professional course for pet guardians organised by COAPE (worldwide excellence in pet behaviour education).
+- Material scope: 1. Dog care; 2. Cat care; 3. Other pet care; 4. First Aid in emergency; 5. Rules for organising the pet-sitter's work.
 <br><br>
 
 **Leaders Training Course Certificate** @ [Youthpass](https://www.youthpass.eu/en/) _(May 2013)_ <br>
-Training for leaders of Youth in Action programme. 
+- Training for leaders of Youth in Action programme. 
 <br><br>
 
 **Licensed Tourist Guide** @ [Ministry of Sport and Tourism](https://www.gov.pl/web/sport) _(2011)_ <br>
-6 months course of Tourist Guide occupation, knowledge of worldwide destinations, european geography, weekend internal training in Prague (Czech Republic).
-
-Completed with 2-day state examination.
+- 6 months course of Tourist Guide occupation, knowledge of worldwide destinations, european geography, weekend internal training in Prague (Czech Republic).
+- Completed with 2-day state examination.
 <br><br>
 
 **Driving License** _(2008)_ <br>
-Category B
+- Category B
 <br><br>
 
 ## 💬 Languages
