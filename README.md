@@ -142,9 +142,9 @@ Category B
   <br><br>
 
 **Charity Campaign "Kocie Budki"** @ [Akcja Kocie Budki](https://z-p42.www.instagram.com/akcjakociebudki/) - Warsaw, Poland _(Jan 2020 - Feb 2021)_<br>
-- Organization and supervision of a charity campaign aimed at improving the living conditions of homeless cats in Warsaw and neighborhood. 
+- Organization and supervision of a charity campaign aimed at improving the living conditions of feral cats in Warsaw and neighborhood. 
 - Cooperation with animals associations and foundations.
-- Conducting a charity fundraising for the construction of feral cat shelters.
+- Conducting a charity fundraiser for feral cat shelters construction.
   <br><br>
   
 **Association of Historical Reenactors Of The Middle Ages "Regiment Piechoty Zaciężnej** - Malbork, Poland _(Jan 2012 - Sep 2014)_ <br>
