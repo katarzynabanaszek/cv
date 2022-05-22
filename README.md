@@ -19,7 +19,7 @@ I'm based in Warsaw, Poland. <br>
 • Manage contract and price negotiations with service providers.
 
 • Creating effective marketing materials for West Site Fitness Club.
-  - **_Technologies used:_** Wordpress, Woocommerce, Adobe Photoshop, Adobe Lightroom, Canva, Microsoft Office.
+   **_Technologies used:_** Wordpress, Woocommerce, Adobe Photoshop, Adobe Lightroom, Canva, Microsoft Office.
 <br><br>
 
 **Business Desk Senior Sales Specialist** @ [LOT Travel](https://www.lottravel.com/dla-firm/) _(Jul 2019 - present)_ <br>
@@ -28,7 +28,7 @@ I'm based in Warsaw, Poland. <br>
 • Coordinate with other business partners to facilitate a positive experience for clients.
 
 • Attend webinars, conferences and other educational programs.
-  - **_Technologies used:_** Amadeus GDS, Sabre GDS, BSP, Mikrosystem - KNF/eKNF/Flight Finder, Microsoft Office.
+   **_Technologies used:_** Amadeus GDS, Sabre GDS, BSP, Mikrosystem - KNF/eKNF/Flight Finder, Microsoft Office.
     <br><br>
     
 **Business Desk Sales Specialist** @ [LOT Travel](https://www.lottravel.com/dla-firm/) _(Feb 2015 - Jul 2019)_ <br>
@@ -40,7 +40,7 @@ for VIP clients - Polish government; ascertain customers needs and wants; deal w
 • Selling and managing airline reservations and tickets: ticket issue, voluntary and invluntary changes, ticket refudns in Amadeus and Sabre GDS systems.
 
 • Follow all companies policies and procedures.
-  - **_Technologies used:_** Amadeus GDS, Sabre GDS, Mikrosystem - KNF/eKNF/Flight Finder, Microsoft Office.
+   **_Technologies used:_** Amadeus GDS, Sabre GDS, Mikrosystem - KNF/eKNF/Flight Finder, Microsoft Office.
     <br><br>
 
 **Call Center Junior Sales Specialist** @ [PLL LOT](https://www.lot.com/pl/en) _(Apr 2013 - Jan 2015)_ <br>
@@ -49,7 +49,7 @@ for VIP clients - Polish government; ascertain customers needs and wants; deal w
 • Issuing and changing airline tickets in Amadeus GDS.
 
 • Authorization and collection of payments in Adyen.
-  - **_Technologies used:_** Amadeus GDS, Adyen, Microsoft Office.
+   **_Technologies used:_** Amadeus GDS, Adyen, Microsoft Office.
   <br><br>
 
 **Sales Specialist** @ [Jack Wolfskin](https://www.jack-wolfskin.pl/) _(Oct 2012 - Apr 2013)_ <br>
@@ -58,7 +58,7 @@ for VIP clients - Polish government; ascertain customers needs and wants; deal w
 • Communicate with Product Managers to understand new and changing products.
 
 • Process customer orders and returns.
-  - **_Technologies used:_** Subiekt GT, Microsoft Office.
+   **_Technologies used:_** Subiekt GT, Microsoft Office.
     <br><br>
     
 **Office Manager** @ [Huber Group](https://www.hubergroup.com/pl/en/) _(Aug 2012 - Feb 2013)_ <br>
@@ -70,7 +70,7 @@ dealing with correspondence, complaints and queries; managing office budgets; li
 • Support other teams with various administrative tasks.
 
 • Amicable debt collection.
-  - **_Technologies used:_** SAP, Microsoft Office.
+   **_Technologies used:_** SAP, Microsoft Office.
 <br><br>
 
 **Sales Assistant** @ [Baltona](https://www.baltona.pl/) _(Oct 2011 - Apr 2012)_ <br>
@@ -79,14 +79,14 @@ dealing with correspondence, complaints and queries; managing office budgets; li
 • Recommend and display items that match customer needs; manage point-of-sale processes.
 
 • Actively involve in the receiving of new shipments.
-  - **_Technologies used:_** Microsoft Office.
+   **_Technologies used:_** Microsoft Office.
     <br><br>
 
 **Shift Manager** @ [Empik](https://www.empik.com/) _(Apr 2011 - Aug 2011)_ <br>
 • Overseeing sales associates; monitoring equipment and merchandise. 
 
 • Cash management; coordinating shift activities.
-  - **_Technologies used:_** GOLD System, Microsoft Office.
+   **_Technologies used:_** GOLD System, Microsoft Office.
     <br><br>
     
 **Customer Assistant** @ [Empik](https://www.empik.com/) _(Feb 2010 - Mar 2011)_ <br>
@@ -94,7 +94,7 @@ dealing with correspondence, complaints and queries; managing office budgets; li
 services); cross-selling products and introducing new ones. 
 
 • Issuing receipts, refunds, event tickets.
-  - **_Technologies used:_** GOLD System, Microsoft Office.
+   **_Technologies used:_** GOLD System, Microsoft Office.
     <br><br>
     
 ## 👩🏼‍🎓 Education
