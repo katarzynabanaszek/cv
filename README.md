@@ -10,7 +10,9 @@ Od jakiegoś czasu pogłębiam wiedzę z branży IT - projektowanie (UX i grafik
 
 **Office Manager** @ [Wood Water](https://woodwater.eu/en/wood-water-2/) _(May 2020 - Dec 2020)_ <br>
 • Product co-creation: creating a label; writing clear compelling copy for various mediums like main website, product social media and for trade partners (i.e. Save the Planet, Prezent Marzeń, Wyjątkowy Prezent); creating effective marketing materials.
+
 • Brand introduction to e-commerce market; preparation of new commercial offers and acquiring new customers.
+
 • Manage contract and price negotiations with service providers.
 •
   - **_Technologies used:_** Wordpress, Woocommerce, Adobe Photoshop, Adobe Lightroom, Canva, Microsoft Office.
@@ -87,12 +89,10 @@ services); cross-selling products and introducing new ones.
 ## � Courses
 
 **Google UX Design** @ [Google](https://grow.google/certificates/ux-design/#?modal_active=none) _(Jan 2022 - in progress)_ <br>
-Named one of the  authors in 2019. Also wrote .............:
-  - [How to remove condescending language from documentation](.....)
 <br><br>
 
 **Product Design 4 Beginners** @ [Daftcode Academy](https://daftacademy.com/) _(Oct 2020 - Dec 2020 )_ <br>
-Material scope: 1. 
+Material scope: 1. UX & UI design; 2. How to build digital products; 3. Role of soft skills - using practical examples from their day-to-day job.
 <br><br>
 
 **Python 4 Beginners Certificate** @ [Daftcode Academy](https://daftacademy.com/) _(Nov 2018 - Dec 2018)_ <br>
