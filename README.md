@@ -3,7 +3,7 @@
 _Moim priorytetem jest dalsze rozwijanie poniższych umiejętności, najlepiej na ścieżce zawodowej.
 Od jakiegoś czasu pogłębiam wiedzę z branży IT - projektowanie (UX i grafika komputerowa), systemy CRM oraz ERP, brałam też udział w kursach programowania (Python). Równolegle interesuję się behawiorystyką zwierząt towarzyszących (specjalizacja koty) oraz działam na rzecz bezdomnych zwierząt. Ze swojej strony mogę zaoferować wysokie zdolności adaptacyjne oraz organizacyjne, dbałość o dobrą atmosferę i komunikację w zespole, wysoki poziom empatii, determinację w działaniu, dokładność, otwartość na wiedzę i zdobywanie nowych umiejętności.... based in Warsaw, Poland_ <br>
 
-[Email](mailto:banaszek.kb@gmail.com) / [LinkedIn](https://www.linkedin.com/in/katarzyna-banaszek-201910141/) / [Behance](https://www.behance.net/katarzybanasze)  / [GitHub](https://github.com/katarzynabanaszek/) 
+[Email](mailto:banaszek.kb@gmail.com) / [LinkedIn](https://www.linkedin.com/in/katarzyna-banaszek-201910141/) / [Behance](https://www.behance.net/katarzybanasze)
 
 
 ## �� Experience
