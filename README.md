@@ -95,7 +95,7 @@ services); cross-selling products and introducing new ones.
 <br><br>
 
 **Python 4 Beginners Certificate** @ [Daftcode Academy](https://daftacademy.com/) _(Nov 2018 - Dec 2018)_ <br>
-- Completed with Certificate of Completion which has been given to students with high scores from tasks results. 
+Completed with Certificate of Completion which has been given to students with high scores from tasks results. 
 - Material scope: 1. Basic data types and structures, operators, conditional statements; 2. Functions and arguments, docstrings, import ; 3. Basic of object-oriented programming, magic methods, conventions; 4. Exceptions, work with files, contextmanager; 5. Virtual environment, requests, response parsing; 6. Database and table, data visualization, setuptools; 7. Make your own game, loops, incremental application development; 8. Python unitests, pytest, TDD.
 <br><br>
 
@@ -108,21 +108,21 @@ services); cross-selling products and introducing new ones.
 <br><br>
 
 **Pet-sitter Certificate** @ [COAPE](https://coape.pl/) _(Apr 2020)_ <br>
-- PET-SITTER professional course for pet guardians organised by COAPE (worldwide excellence in pet behaviour education).
+PET-SITTER professional course for pet guardians organised by COAPE (worldwide excellence in pet behaviour education).
 - Material scope: 1. Dog care; 2. Cat care; 3. Other pet care; 4. First Aid in emergency; 5. Rules for organising the pet-sitter's work.
 <br><br>
 
 **Leaders Training Course Certificate** @ [Youthpass](https://www.youthpass.eu/en/) _(May 2013)_ <br>
-- Training for leaders of Youth in Action programme. 
+Training for leaders of Youth in Action programme. 
 <br><br>
 
 **Licensed Tourist Guide** @ [Ministry of Sport and Tourism](https://www.gov.pl/web/sport) _(2011)_ <br>
-- 6 months course of Tourist Guide occupation, knowledge of worldwide destinations, european geography, weekend internal training in Prague (Czech Republic).
+6 months course of Tourist Guide occupation, knowledge of worldwide destinations, european geography, weekend internal training in Prague (Czech Republic).
 - Completed with 2-day state examination.
 <br><br>
 
 **Driving License** _(2008)_ <br>
-- Category B
+Category B
 <br><br>
 
 ## 💬 Languages
