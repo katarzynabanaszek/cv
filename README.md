@@ -22,7 +22,7 @@ I'm based in Warsaw, Poland. <br>
   - **_Technologies used:_** Wordpress, Woocommerce, Adobe Photoshop, Adobe Lightroom, Canva, Microsoft Office.
 <br><br>
 
-**Senior Sales Specialist** @ [LOT Travel](https://www.lottravel.com/dla-firm/) _(Jul 2019 - present)_ <br>
+**Business Desk Senior Sales Specialist** @ [LOT Travel](https://www.lottravel.com/dla-firm/) _(Jul 2019 - present)_ <br>
 • In addition to the responsibilites listed below, maintain statistical and financial records of the entire office; office managment.
 
 • Coordinate with other business partners to facilitate a positive experience for clients.
@@ -31,7 +31,7 @@ I'm based in Warsaw, Poland. <br>
   - **_Technologies used:_** Amadeus GDS, Sabre GDS, BSP, Mikrosystem - KNF/eKNF/Flight Finder, Microsoft Office.
     <br><br>
     
-**Sales Specialist** @ [LOT Travel](https://www.lottravel.com/dla-firm/) _(Feb 2015 - Jul 2019)_ <br>
+**Business Desk Sales Specialist** @ [LOT Travel](https://www.lottravel.com/dla-firm/) _(Feb 2015 - Jul 2019)_ <br>
 • Ensure high levels of customer satisfaction through excellent sales service 
 for VIP clients - Polish government; ascertain customers needs and wants; deal with occurring travel problems, complaints or refunds.
 
