@@ -104,8 +104,7 @@ services); cross-selling products and introducing new ones.
 <br><br>
 
 **Small Animal/Canine Massage Program Certificate** @ [Klinika Rehabilitacji Zwierząt](https://www.fizjopetmed.pl/) _(Aug 2020)_ <br>
-- Material scope: 1. Methods and techniques of medical massage for animals; 2. Palpation patient examination; 3. Localization of anatomical structures; 
-4. Methodology of passive excersises; 5. Assessment of locomotor disorders impact on muscular system.
+- Material scope: 1. Methods and techniques of medical massage for animals; 2. Palpation patient examination; 3. Localization of anatomical structures; 4. Methodology of passive excersises; 5. Assessment of locomotor disorders impact on muscular system.
 <br><br>
 
 **Pet-sitter Certificate** @ [COAPE](https://coape.pl/) _(Apr 2020)_ <br>
