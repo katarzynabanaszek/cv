@@ -90,7 +90,6 @@ services); cross-selling products and introducing new ones.
 
 **Google UX Design** @ [Google](https://grow.google/certificates/ux-design/#?modal_active=none) _(Jan 2022 - in progress)_ <br>
 <br><br>
-
 **Product Design 4 Beginners** @ [Daftcode Academy](https://daftacademy.com/) _(Oct 2020 - Dec 2020 )_ <br>
 Material scope: 1. UX & UI design; 2. How to build digital products; 3. Role of soft skills - using practical examples from their day-to-day job.
 <br><br>
