@@ -20,77 +20,61 @@ I'm based in Warsaw, Poland. <br>
 <br><br>
 
 **Business Desk Senior Sales Specialist** @ [LOT Travel](https://www.lottravel.com/dla-firm/) _(Jul 2019 - present)_ <br>
-• In addition to the responsibilites listed below, maintain statistical and financial records of the entire office; office managment.
-
-• Coordinate with other business partners to facilitate a positive experience for clients.
-
-• Attend webinars, conferences and other educational programs.
+- In addition to the responsibilites listed below, maintain statistical and financial records of the entire office; office managment.
+- Coordinate with other business partners to facilitate a positive experience for clients.
+- Attend webinars, conferences and other educational programs.
   - **_Technologies used:_** Amadeus GDS, Sabre GDS, BSP, Mikrosystem - KNF/eKNF/Flight Finder, Microsoft Office.
     <br><br>
     
 **Business Desk Sales Specialist** @ [LOT Travel](https://www.lottravel.com/dla-firm/) _(Feb 2015 - Jul 2019)_ <br>
-• Ensure high levels of customer satisfaction through excellent sales service 
+- Ensure high levels of customer satisfaction through excellent sales service 
 for VIP clients - Polish government; ascertain customers needs and wants; deal with occurring travel problems, complaints or refunds.
-
-• Offering face to face and telephone/e-mail advice to corporate customers.
-
-• Selling and managing airline reservations and tickets: ticket issue, voluntary and invluntary changes, ticket refudns in Amadeus and Sabre GDS systems.
-
-• Follow all companies policies and procedures.
+- Offering face to face and telephone/e-mail advice to corporate customers.
+- Selling and managing airline reservations and tickets: ticket issue, voluntary and invluntary changes, ticket refudns in Amadeus and Sabre GDS systems.
+- Follow all companies policies and procedures.
   - **_Technologies used:_** Amadeus GDS, Sabre GDS, Mikrosystem - KNF/eKNF/Flight Finder, Microsoft Office.
     <br><br>
 
 **Call Center Junior Sales Specialist** @ [PLL LOT](https://www.lot.com/pl/en) _(Apr 2013 - Jan 2015)_ <br>
-• Planning and selling airline transportations, insurance and other travel services; cross-selling products and introducing new ones.
-
-• Issuing and changing airline tickets in Amadeus GDS.
-
-• Authorization and collection of payments in Adyen.
+- Planning and selling airline transportations, insurance and other travel services; cross-selling products and introducing new ones.
+- Issuing and changing airline tickets in Amadeus GDS.
+- Authorization and collection of payments in Adyen.
   - **_Technologies used:_** Amadeus GDS, Adyen, Microsoft Office.
   <br><br>
 
 **Sales Specialist** @ [Jack Wolfskin](https://www.jack-wolfskin.pl/) _(Oct 2012 - Apr 2013)_ <br>
-• Answer customer inquiries; acts as a resource for customers and retailers in regards to product and technical questions.
-
-• Communicate with Product Managers to understand new and changing products.
-
-• Process customer orders and returns.
+- Answer customer inquiries; acts as a resource for customers and retailers in regards to product and technical questions.
+- Communicate with Product Managers to understand new and changing products.
+- Process customer orders and returns.
   - **_Technologies used:_** Subiekt GT, Microsoft Office.
     <br><br>
     
 **Office Manager** @ [Huber Group](https://www.hubergroup.com/pl/en/) _(Aug 2012 - Feb 2013)_ <br>
-• Assist in office management and organization procedures: preparing letters, presentations and reports; ordering furnitures; 
+- Assist in office management and organization procedures: preparing letters, presentations and reports; ordering furnitures; 
 dealing with correspondence, complaints and queries; managing office budgets; liaising with staff, suppliers and clients.
-
-• Sales order management and processing in SAP: create, change and display sales orders; product availability check; product allocation; sales order processing with customer down payment; sales order delivery; processing sales documents with customer expected prices; sales billing; claims, returns and refund managment.
-
-• Support other teams with various administrative tasks.
-
-• Amicable debt collection.
+- Sales order management and processing in SAP: create, change and display sales orders; product availability check; product allocation; sales order processing with customer down payment; sales order delivery; processing sales documents with customer expected prices; sales billing; claims, returns and refund managment.
+- Support other teams with various administrative tasks.
+- Amicable debt collection.
   - **_Technologies used:_** SAP, Microsoft Office.
 <br><br>
 
 **Sales Assistant** @ [Baltona](https://www.baltona.pl/) _(Oct 2011 - Apr 2012)_ <br>
-• Maintain outstanding store condition and visual merchandising standards.
-
-• Recommend and display items that match customer needs; manage point-of-sale processes.
-
-• Actively involve in the receiving of new shipments.
+- Maintain outstanding store condition and visual merchandising standards.
+- Recommend and display items that match customer needs; manage point-of-sale processes.
+- Actively involve in the receiving of new shipments.
   - **_Technologies used:_** Microsoft Office.
     <br><br>
 
 **Shift Manager** @ [Empik](https://www.empik.com/) _(Apr 2011 - Aug 2011)_ <br>
-• Overseeing sales associates; monitoring equipment and merchandise. 
-
-• Cash management; coordinating shift activities.
+- Overseeing sales associates; monitoring equipment and merchandise. 
+- Cash management; coordinating shift activities.
   - **_Technologies used:_** GOLD System, Microsoft Office.
     <br><br>
     
 **Customer Assistant** @ [Empik](https://www.empik.com/) _(Feb 2010 - Mar 2011)_ <br>
-• Provide accurate information (e.g. product features, pricing and aftersales
+- Provide accurate information (e.g. product features, pricing and aftersales
 services); cross-selling products and introducing new ones. 
-
-• Issuing receipts, refunds, event tickets.
+- Issuing receipts, refunds, event tickets.
   - **_Technologies used:_** GOLD System, Microsoft Office.
     <br><br>
     
@@ -157,27 +141,21 @@ Category B
 ## 📌 On The Side
 
 **Volunteer** @ [Fundacja Kraina Zwierząt](https://krainazwierzat.com.pl/) _(Jun 2021 - Present)_<br>
-• Helping in the cat's temporary home.
-
-• Carrying out the adoption process.
-
-• Creating text and graphic materials for social media.
+- Helping in the cat's temporary home.
+- Carrying out the adoption process.
+- Creating text and graphic materials for social media.
   <br><br>
 
 **Charity Campaign "Kocie Budki"** @ [Akcja Kocie Budki](https://z-p42.www.instagram.com/akcjakociebudki/) - Warsaw, Poland _(Jan 2020 - Feb 2021)_<br>
-• Organization and supervision of a charity campaign aimed at improving the living conditions of homeless cats in Warsaw and neighberhood. 
-
-• Cooperation with animals associations and foundations.
-
-• Conducting a charity fundraising for the construction of feral cat shelters.
+- Organization and supervision of a charity campaign aimed at improving the living conditions of homeless cats in Warsaw and neighberhood. 
+- Cooperation with animals associations and foundations.
+- Conducting a charity fundraising for the construction of feral cat shelters.
   <br><br>
   
 **Association of Historical Reenactors Of The Middle Ages "Regiment Piechoty Zaciężnej** - Malbork, Poland _(Jan 2012 - Sep 2014)_ <br>
-• Project preparation and application for funding in EU funding programme „Youth in action” (with positive effect).
-
-• Organization and supervision of the exhibition on Warsaw Tourism Fair "PODRÓŻE".
-
-• Organization activities and recruiment of new members in Warsaw. 
+- Project preparation and application for funding in EU funding programme „Youth in action” (with positive effect).
+- Organization and supervision of the exhibition on Warsaw Tourism Fair "PODRÓŻE".
+- Organization activities and recruiment of new members in Warsaw. 
   <br><br>
 
 ## 👩🏼‍🎓 Interests
