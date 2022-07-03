@@ -70,13 +70,10 @@ dealing with correspondence, complaints and queries; managing office budgets; li
 **Small Animal/Canine Massage Program Certificate** @ [Klinika Rehabilitacji Zwierząt](https://www.fizjopetmed.pl/) _(Aug 2020)_<br> 
 
 **Pet-sitter Certificate** @ [COAPE](https://coape.pl/) _(Apr 2020)_ <br>
-PET-SITTER professional course for pet guardians organised by COAPE (worldwide excellence in pet behaviour education).
 
 **Leaders Training Course Certificate** @ [Youthpass](https://www.youthpass.eu/en/) _(May 2013)_<br>
-Training for leaders of Youth in Action programme. 
 
 **Licensed Tourist Guide** @ [Ministry of Sport and Tourism](https://www.gov.pl/web/sport) _(2011)_<br> 
-6 months course of Tourist Guide occupation, knowledge of worldwide destinations, european geography, weekend internal training in Prague (Czech Republic).
 
 **Driving License** _(2008)_<br>
 Category B
