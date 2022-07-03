@@ -67,11 +67,8 @@ dealing with correspondence, complaints and queries; managing office budgets; li
 ## ✒️ Courses
 
 **Google UX Design** @ [Google](https://grow.google/certificates/ux-design/#?modal_active=none) _(Jan 2022 - in progress)_ <br>
-<br><br>
 **Product Design 4 Beginners** @ [Daftcode Academy](https://daftacademy.com/) _(Oct 2020 - Dec 2020 )_ <br>
-<br><br>
 **Python 4 Beginners Certificate** @ [Daftcode Academy](https://daftacademy.com/) _(Nov 2018 - Dec 2018)_ <br>
-<br><br>
 **Zoopsychology - spec. cats** @ [Zoopsychologia Łapa w Dłoń](https://www.zoopsychologialapawdlon.com/) _(Dec 2020 - in progress)_ <br>
 <br><br>
 **Small Animal/Canine Massage Program Certificate** @ [Klinika Rehabilitacji Zwierząt](https://www.fizjopetmed.pl/) _(Aug 2020)_ <br>
