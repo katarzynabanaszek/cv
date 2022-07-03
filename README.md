@@ -33,13 +33,6 @@ for VIP clients - Polish government; ascertaining customers needs and wants; dea
 - Following all companies policies and procedures.
   - **_Technologies used:_** Amadeus GDS, Sabre GDS, Mikrosystem - KNF/eKNF/Flight Finder, Microsoft Office.
     <br><br>
-
-**Call Center Junior Sales Specialist** @ [PLL LOT](https://www.lot.com/pl/en) _(Apr 2013 - Jan 2015)_ <br>
-- Planning and selling airline transportations, insurance and other travel services; cross-selling products and introducing new ones.
-- Issuing and changing airline tickets in Amadeus GDS.
-- Authorization and collection of payments in Adyen.
-  - **_Technologies used:_** Amadeus GDS, Adyen, Microsoft Office.
-  <br><br>
     
 **Office Manager** @ [Huber Group](https://www.hubergroup.com/pl/en/) _(Aug 2012 - Feb 2013)_ <br>
 - Assisting in office management and organization procedures: preparing letters, presentations and reports; ordering furnitures; 
