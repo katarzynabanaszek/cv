@@ -56,13 +56,6 @@ dealing with correspondence, complaints and queries; managing office budgets; li
   - **_Technologies used:_** GOLD System, Microsoft Office.
     <br><br>
     
-**Customer Assistant** @ [Empik](https://www.empik.com/) _(Feb 2010 - Mar 2011)_ <br>
-- Providing accurate information (e.g. product features, pricing and aftersales
-services); cross-selling products and introducing new ones. 
-- Issuing receipts, refunds, event tickets.
-  - **_Technologies used:_** GOLD System, Microsoft Office.
-    <br><br>
-    
 ## 🎓 Education
 
 **Master’s degree programme** for Financial Management and Accounting<br>
