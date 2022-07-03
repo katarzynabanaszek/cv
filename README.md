@@ -66,26 +66,26 @@ dealing with correspondence, complaints and queries; managing office budgets; li
 
 ## ✒️ Courses
 
-**Google UX Design** @ [Google](https://grow.google/certificates/ux-design/#?modal_active=none) _(Jan 2022 - in progress)_ 
+**Google UX Design** @ [Google](https://grow.google/certificates/ux-design/#?modal_active=none) _(Jan 2022 - in progress)_<br> 
 
-**Product Design 4 Beginners** @ [Daftcode Academy](https://daftacademy.com/) _(Oct 2020 - Dec 2020 )_ 
+**Product Design 4 Beginners** @ [Daftcode Academy](https://daftacademy.com/) _(Oct 2020 - Dec 2020 )_<br> 
 
-**Python 4 Beginners Certificate** @ [Daftcode Academy](https://daftacademy.com/) _(Nov 2018 - Dec 2018)_ 
+**Python 4 Beginners Certificate** @ [Daftcode Academy](https://daftacademy.com/) _(Nov 2018 - Dec 2018)_<br> 
 
-**Zoopsychology - spec. cats** @ [Zoopsychologia Łapa w Dłoń](https://www.zoopsychologialapawdlon.com/) _(Dec 2020 - in progress)_ 
+**Zoopsychology - spec. cats** @ [Zoopsychologia Łapa w Dłoń](https://www.zoopsychologialapawdlon.com/) _(Dec 2020 - in progress)_<br>
 
-**Small Animal/Canine Massage Program Certificate** @ [Klinika Rehabilitacji Zwierząt](https://www.fizjopetmed.pl/) _(Aug 2020)_ 
+**Small Animal/Canine Massage Program Certificate** @ [Klinika Rehabilitacji Zwierząt](https://www.fizjopetmed.pl/) _(Aug 2020)_<br> 
 
 **Pet-sitter Certificate** @ [COAPE](https://coape.pl/) _(Apr 2020)_ <br>
 PET-SITTER professional course for pet guardians organised by COAPE (worldwide excellence in pet behaviour education).
 
-**Leaders Training Course Certificate** @ [Youthpass](https://www.youthpass.eu/en/) _(May 2013)_ 
+**Leaders Training Course Certificate** @ [Youthpass](https://www.youthpass.eu/en/) _(May 2013)_<br>
 Training for leaders of Youth in Action programme. 
 
-**Licensed Tourist Guide** @ [Ministry of Sport and Tourism](https://www.gov.pl/web/sport) _(2011)_ 
+**Licensed Tourist Guide** @ [Ministry of Sport and Tourism](https://www.gov.pl/web/sport) _(2011)_<br> 
 6 months course of Tourist Guide occupation, knowledge of worldwide destinations, european geography, weekend internal training in Prague (Czech Republic).
 
-**Driving License** _(2008)_ 
+**Driving License** _(2008)_<br>
 Category B
 <br><br>
 
