@@ -10,7 +10,7 @@ I have been broadening my knowledge of the IT industry - design (UX and computer
 
 ## 💻 Experience
 
-**Office Manager** @ [Wood Water](https://woodwater.eu/en/wood-water-2/) _(May 2020 - Dec 2020)_ <br>
+**Office Manager** @ [Wood Water](https://woodwater.eu/en/wood-water-2/) _(May 2020 - Dec 2020, part-time job)_ <br>
 - Product co-creation: creating a label; writing clear compelling copy for various mediums like main website, social media and for trade partners (i.e. Save the Planet, Prezent Marzeń, Wyjątkowy Prezent); creating effective marketing materials.
 - Brand introduction to e-commerce market; preparation of new commercial offers and acquiring new customers.
 - Managing contract and price negotiations with service providers.
@@ -40,13 +40,6 @@ for VIP clients - Polish government; ascertaining customers needs and wants; dea
 - Authorization and collection of payments in Adyen.
   - **_Technologies used:_** Amadeus GDS, Adyen, Microsoft Office.
   <br><br>
-
-**Sales Specialist** @ [Jack Wolfskin](https://www.jack-wolfskin.pl/) _(Oct 2012 - Apr 2013)_ <br>
-- Answering customer inquiries; acting as a resource for customers and retailers in regards to product and technical questions.
-- Communicating with Product Managers to understand new and changing products.
-- Processing customer orders and returns.
-  - **_Technologies used:_** Subiekt GT, Microsoft Office.
-    <br><br>
     
 **Office Manager** @ [Huber Group](https://www.hubergroup.com/pl/en/) _(Aug 2012 - Feb 2013)_ <br>
 - Assisting in office management and organization procedures: preparing letters, presentations and reports; ordering furnitures; 
@@ -56,13 +49,6 @@ dealing with correspondence, complaints and queries; managing office budgets; li
 - Amicable debt collection.
   - **_Technologies used:_** SAP, Microsoft Office.
 <br><br>
-
-**Sales Assistant** @ [Baltona](https://www.baltona.pl/) _(Oct 2011 - Apr 2012)_ <br>
-- Maintaining outstanding store condition and visual merchandising standards.
-- Recommending and displaying items that match customer needs; managing point-of-sale processes.
-- Active involvement in receiving of new shipments.
-  - **_Technologies used:_** Microsoft Office.
-    <br><br>
 
 **Shift Manager** @ [Empik](https://www.empik.com/) _(Apr 2011 - Aug 2011)_ <br>
 - Overseeing sales associates; monitoring equipment and merchandise. 
@@ -89,26 +75,21 @@ services); cross-selling products and introducing new ones.
 
 **Google UX Design** @ [Google](https://grow.google/certificates/ux-design/#?modal_active=none) _(Jan 2022 - in progress)_ <br>
 <br><br>
+
 **Product Design 4 Beginners** @ [Daftcode Academy](https://daftacademy.com/) _(Oct 2020 - Dec 2020 )_ <br>
-- Material scope: 1. UX & UI design; 2. How to build digital products; 3. Role of soft skills - using practical examples from their day-to-day job.
 <br><br>
 
 **Python 4 Beginners Certificate** @ [Daftcode Academy](https://daftacademy.com/) _(Nov 2018 - Dec 2018)_ <br>
-Completed with Certificate of Completion which has been given to students with high scores from tasks results. 
-- Material scope: 1. Basic data types and structures, operators, conditional statements; 2. Functions and arguments, docstrings, import ; 3. Basic of object-oriented programming, magic methods, conventions; 4. Exceptions, work with files, contextmanager; 5. Virtual environment, requests, response parsing; 6. Database and table, data visualization, setuptools; 7. Make your own game, loops, incremental application development; 8. Python unitests, pytest, TDD.
 <br><br>
 
 **Zoopsychology - spec. cats** @ [Zoopsychologia Łapa w Dłoń](https://www.zoopsychologialapawdlon.com/) _(Dec 2020 - in progress)_ <br>
-- Material scope: 1. Cat evolution, process of domestication and breeds formation.; 2. Cat Ethogram; 3. Cat development and socialization, proper development support, neurological stimulation; 4. The welfare of companion animals; 5. Communication and body language of animals; 6. Learning mechanism and training techniques; 7. Influence of diet on animal behavior; 8. Influence of emotions on animal behavior; 9. Somatic diseases and behavioral disorders; 10. Animal psychopathology and behavioral problems of cats, classification of behavior disorders and prevention; 11. Aggression and aggressive behavior of cats; 12. Working with shelter animals; 13. Therapies, enriching the environment; 14. Case study; 15. The zoopsychologist's code of ethics; 16. Communication and rules of working with the client, interview and cooperation with the guardian of the animal.
 <br><br>
 
 **Small Animal/Canine Massage Program Certificate** @ [Klinika Rehabilitacji Zwierząt](https://www.fizjopetmed.pl/) _(Aug 2020)_ <br>
-- Material scope: 1. Methods and techniques of medical massage for animals; 2. Palpation patient examination; 3. Localization of anatomical structures; 4. Methodology of passive excersises; 5. Assessment of locomotor disorders impact on muscular system.
 <br><br>
 
 **Pet-sitter Certificate** @ [COAPE](https://coape.pl/) _(Apr 2020)_ <br>
 PET-SITTER professional course for pet guardians organised by COAPE (worldwide excellence in pet behaviour education).
-- Material scope: 1. Dog care; 2. Cat care; 3. Other pet care; 4. First Aid in emergency; 5. Rules for organising the pet-sitter's work.
 <br><br>
 
 **Leaders Training Course Certificate** @ [Youthpass](https://www.youthpass.eu/en/) _(May 2013)_ <br>
@@ -117,7 +98,6 @@ Training for leaders of Youth in Action programme.
 
 **Licensed Tourist Guide** @ [Ministry of Sport and Tourism](https://www.gov.pl/web/sport) _(2011)_ <br>
 6 months course of Tourist Guide occupation, knowledge of worldwide destinations, european geography, weekend internal training in Prague (Czech Republic).
-- Completed with 2-days state examination.
 <br><br>
 
 **Driving License** _(2008)_ <br>
