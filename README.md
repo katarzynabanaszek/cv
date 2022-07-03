@@ -70,18 +70,13 @@ dealing with correspondence, complaints and queries; managing office budgets; li
 **Product Design 4 Beginners** @ [Daftcode Academy](https://daftacademy.com/) _(Oct 2020 - Dec 2020 )_ <br>
 **Python 4 Beginners Certificate** @ [Daftcode Academy](https://daftacademy.com/) _(Nov 2018 - Dec 2018)_ <br>
 **Zoopsychology - spec. cats** @ [Zoopsychologia Łapa w Dłoń](https://www.zoopsychologialapawdlon.com/) _(Dec 2020 - in progress)_ <br>
-<br><br>
 **Small Animal/Canine Massage Program Certificate** @ [Klinika Rehabilitacji Zwierząt](https://www.fizjopetmed.pl/) _(Aug 2020)_ <br>
-<br><br>
 **Pet-sitter Certificate** @ [COAPE](https://coape.pl/) _(Apr 2020)_ <br>
 PET-SITTER professional course for pet guardians organised by COAPE (worldwide excellence in pet behaviour education).
-<br><br>
 **Leaders Training Course Certificate** @ [Youthpass](https://www.youthpass.eu/en/) _(May 2013)_ <br>
 Training for leaders of Youth in Action programme. 
-<br><br>
 **Licensed Tourist Guide** @ [Ministry of Sport and Tourism](https://www.gov.pl/web/sport) _(2011)_ <br>
 6 months course of Tourist Guide occupation, knowledge of worldwide destinations, european geography, weekend internal training in Prague (Czech Republic).
-<br><br>
 **Driving License** _(2008)_ <br>
 Category B
 <br><br>
