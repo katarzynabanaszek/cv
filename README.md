@@ -26,7 +26,7 @@ for VIP clients - Polish government; ascertaining customers needs and wants; dea
   - **_Technologies used:_** Amadeus GDS, Sabre GDS, Mikrosystem - KNF/eKNF/Flight Finder, Microsoft Office.
     <br><br>
     
-    **Office Manager** @ [Wood Water](https://woodwater.eu/en/wood-water-2/) _(May 2020 - Dec 2020, part-time job)_ <br>
+**Office Manager** @ [Wood Water](https://woodwater.eu/en/wood-water-2/) _(May 2020 - Dec 2020, part-time job)_ <br>
 - Product co-creation: creating a label; writing clear compelling copy for various mediums like main website, social media and for trade partners (i.e. Save the Planet, Prezent Marzeń, Wyjątkowy Prezent); creating effective marketing materials.
 - Brand introduction to e-commerce market; preparation of new commercial offers and acquiring new customers.
 - Managing contract and price negotiations with service providers.
