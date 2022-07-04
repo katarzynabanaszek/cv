@@ -10,14 +10,6 @@ I have been broadening my knowledge of the IT industry - design (UX and computer
 
 ## 💻 Experience
 
-**Office Manager** @ [Wood Water](https://woodwater.eu/en/wood-water-2/) _(May 2020 - Dec 2020, part-time job)_ <br>
-- Product co-creation: creating a label; writing clear compelling copy for various mediums like main website, social media and for trade partners (i.e. Save the Planet, Prezent Marzeń, Wyjątkowy Prezent); creating effective marketing materials.
-- Brand introduction to e-commerce market; preparation of new commercial offers and acquiring new customers.
-- Managing contract and price negotiations with service providers.
-- Creating effective marketing materials for West Site Fitness Club.
-  - **_Technologies used:_** Wordpress, Woocommerce, Adobe Photoshop, Adobe Lightroom, Canva, Microsoft Office.
-<br><br>
-
 **Business Desk Senior Sales Specialist** @ [LOT Travel](https://www.lottravel.com/dla-firm/) _(Jul 2019 - present)_ <br>
 - In addition to the responsibilites listed below as a BD Sales Specialist, maintain statistical and financial records of the entire office; office managment.
 - Coordination with other business partners to facilitate a positive experience for clients.
@@ -33,6 +25,14 @@ for VIP clients - Polish government; ascertaining customers needs and wants; dea
 - Following all companies policies and procedures.
   - **_Technologies used:_** Amadeus GDS, Sabre GDS, Mikrosystem - KNF/eKNF/Flight Finder, Microsoft Office.
     <br><br>
+    
+    **Office Manager** @ [Wood Water](https://woodwater.eu/en/wood-water-2/) _(May 2020 - Dec 2020, part-time job)_ <br>
+- Product co-creation: creating a label; writing clear compelling copy for various mediums like main website, social media and for trade partners (i.e. Save the Planet, Prezent Marzeń, Wyjątkowy Prezent); creating effective marketing materials.
+- Brand introduction to e-commerce market; preparation of new commercial offers and acquiring new customers.
+- Managing contract and price negotiations with service providers.
+- Creating effective marketing materials for West Site Fitness Club.
+  - **_Technologies used:_** Wordpress, Woocommerce, Adobe Photoshop, Adobe Lightroom, Canva, Microsoft Office.
+<br><br>
     
 **Office Manager** @ [Huber Group](https://www.hubergroup.com/pl/en/) _(Aug 2012 - Feb 2013)_ <br>
 - Assisting in office management and organization procedures: preparing letters, presentations and reports; ordering furnitures; 
