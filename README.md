@@ -3,14 +3,32 @@
 I can offer high adaptive and organizational skills, care for good atmosphere and communication in the team, high level of empathy, determination in action, accuracy, openness to knowledge and acquiring new skills.
 
 My priority is to further develop the following skills, preferably on a professional path. 
-I have been broadening my knowledge of the IT industry - design (UX and computer graphics), CRM and ERP systems. I also took part in programming courses - Python and Product Design. At the same time, I am interested in behavior of companion animals (especially cats). I'm based in Warsaw, Poland. <br>
+I have been broadening my knowledge of the Banking and Finance industry as Anti-Money Laundering Analyst and looking for new opportunities in AML - to achieve more, bring my ideas into the workplace, to support team and follow personally set standards.
+I also took part in programming courses - Python and Product Design and implemented small projects related to UX and computer graphics. At the same time, I am interested in behavior of companion animals (especially cats). I'm based in Warsaw, Poland. <br>
 
 [Email](mailto:banaszek.kb@gmail.com) / [LinkedIn](https://www.linkedin.com/in/katarzyna-banaszek-201910141/) 
 
 
 ## 💻 Experience
 
-**Business Desk Senior Sales Specialist** @ [LOT Travel](https://www.lottravel.com/dla-firm/) _(Jul 2019 - present)_ <br>
+**AML Analyst at Financial Intelligence Unit (FIU) - NAM region** @ [Citi]([https://www.citigroup.com/global) _(Oct 2023 - present)_ <br>
+- In addition to the responsibilites listed below as a AML Junior Analyst, assist AML team with managing risks by analysing the root cause of issues and impact to business.
+- Work with AML team to summarize, in writing, clear and concise findings of the investigation.
+- Taking part in superior initiated projects.
+  - **_Technologies used:_** Internal systems, Microsoft Office.
+    <br><br>
+
+**AML Junior Analyst at Financial Intelligence Unit (FIU) - NAM region** @ [Citi]([https://www.citigroup.com/global) _(Dec 2022 - Oct 2023)_ <br>
+- Investigating clients and transactions to detect any suspicions of money laundering, fraud and/or terrorist financing activities.
+- Conducting searches, gathering and analyzing data from internal sources, the Internet and commercial database.
+- Submitting enquiry with business or Compliance contacts within Citi for further authorization. 
+- Operating within agreed business SLAs and confidentiality, standards.
+- Applying and adapting knowledge (obtained from training) of any imposed sanction(s) or laws/regulation(s) to the task at hand.
+- Attending webinars, conferences and other educational programs related to money laundering processes.
+  - **_Technologies used:_** Internal systems, Microsoft Office.
+    <br><br>
+
+**Business Desk Senior Sales Specialist** @ [LOT Travel](https://www.lottravel.com/dla-firm/) _(Jul 2019 - Dec 2022)_ <br>
 - In addition to the responsibilites listed below as a BD Sales Specialist, maintain statistical and financial records of the entire office; office managment.
 - Coordination with other business partners to facilitate a positive experience for clients.
 - Attending webinars, conferences and other educational programs.
@@ -65,6 +83,8 @@ dealing with correspondence, complaints and queries; managing office budgets; li
 
 **Python 4 Beginners Certificate** @ [Daftcode Academy](https://daftacademy.com/) _(Nov 2018 - Dec 2018)_<br> 
 
+**Advanced diploma in the practical aspects of companion animal behaviour and training** @ [Centre Of Applied Pet Ethology COAPE Polska](https://coape.pl/behawiorysci-coape) _(Oct 2023 - in progress)_<br>
+
 **Zoopsychology - spec. cats** @ [Zoopsychologia Łapa w Dłoń](https://www.zoopsychologialapawdlon.com/) _(Dec 2020 - in progress)_<br>
 
 **Small Animal/Canine Massage Program Certificate** @ [Klinika Rehabilitacji Zwierząt](https://www.fizjopetmed.pl/) _(Aug 2020)_<br> 
@@ -109,7 +129,7 @@ Category B
 
 ## 🌟 Interests
 
-New technology, UX, ethology, photography, books & movies, board games, travelling, trekking, balance sports like bouldering, slacklining, trickboarding. <br>
+New technology, AML and KYC, UX, ethology, photography, books & movies, board games, travelling, trekking, balance sports like bouldering, slacklining, trickboarding. <br>
 <br><br>
 
 I hereby give consent for my personal data included in my application to be processed for the purposes of the recruitment process under the
