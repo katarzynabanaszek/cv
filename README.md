@@ -2,7 +2,8 @@
 
 I can offer high adaptive and organizational skills, care for good atmosphere and communication in the team, high level of empathy, determination in action, accuracy, openness to knowledge and acquiring new skills.
 
-My priority is to further develop the following skills, preferably on a professional path. 
+My priority is to further develop the following skills, preferably on a professional path.
+
 I have been broadening my knowledge of the Banking and Finance industry as Anti-Money Laundering Analyst and looking for new opportunities in AML - to achieve more, bring my ideas into the workplace, to support team and follow personally set standards.
 I also took part in programming courses - Python and Product Design and implemented small projects related to UX and computer graphics. At the same time, I am interested in behavior of companion animals (especially cats). I'm based in Warsaw, Poland. <br>
 
@@ -11,14 +12,14 @@ I also took part in programming courses - Python and Product Design and implemen
 
 ## 💻 Experience
 
-**AML Analyst at Financial Intelligence Unit (FIU) - NAM region** @ [Citi]([https://www.citigroup.com/global) _(Oct 2023 - present)_ <br>
+**AML Analyst at Financial Intelligence Unit (FIU) - NAM region** @ [Citi](https://www.citigroup.com/global) _(Oct 2023 - present)_ <br>
 - In addition to the responsibilites listed below as a AML Junior Analyst, assist AML team with managing risks by analysing the root cause of issues and impact to business.
 - Work with AML team to summarize, in writing, clear and concise findings of the investigation.
 - Taking part in superior initiated projects.
   - **_Technologies used:_** Internal systems, Microsoft Office.
     <br><br>
 
-**AML Junior Analyst at Financial Intelligence Unit (FIU) - NAM region** @ [Citi]([https://www.citigroup.com/global) _(Dec 2022 - Oct 2023)_ <br>
+**AML Junior Analyst at Financial Intelligence Unit (FIU) - NAM region** @ [Citi](https://www.citigroup.com/global) _(Dec 2022 - Oct 2023)_ <br>
 - Investigating clients and transactions to detect any suspicions of money laundering, fraud and/or terrorist financing activities.
 - Conducting searches, gathering and analyzing data from internal sources, the Internet and commercial database.
 - Submitting enquiry with business or Compliance contacts within Citi for further authorization. 
