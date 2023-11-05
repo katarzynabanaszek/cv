@@ -3,8 +3,7 @@
 I can offer high adaptive and organizational skills, care for good atmosphere and communication in the team, high level of empathy, determination in action, accuracy, openness to knowledge and acquiring new skills.
 
 My priority is to further develop the following skills, preferably on a professional path.
-
-I have been broadening my knowledge of the Banking and Finance industry as Anti-Money Laundering Analyst and looking for new opportunities in AML - to achieve more, bring my ideas into the workplace, to support team and follow personally set standards.
+I have been broadening my knowledge of the Banking and Finance industry as Anti-Money Laundering Analyst and constanly looking for new opportunities in AML - to achieve more, bring my ideas into the workplace, to support team and follow personally set standards.
 I also took part in programming courses - Python and Product Design and implemented small projects related to UX and computer graphics. At the same time, I am interested in behavior of companion animals (especially cats). I'm based in Warsaw, Poland. <br>
 
 [Email](mailto:banaszek.kb@gmail.com) / [LinkedIn](https://www.linkedin.com/in/katarzyna-banaszek-201910141/) 
