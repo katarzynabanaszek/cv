@@ -21,8 +21,7 @@ _(Oct 2023 - present)_ <br>
   - **_Technologies used:_** Internal systems, Microsoft Office.
     <br><br>
 
-**AML Junior Analyst at Financial Intelligence Unit (FIU) - NAM region** @ [Citi](https://www.citigroup.com/global) <br>
-_(Dec 2022 - Oct 2023)_ <br>
+**AML Junior Analyst at Financial Intelligence Unit (FIU) - NAM region** @ [Citi](https://www.citigroup.com/global). _(Dec 2022 - Oct 2023)_ <br>
 - Investigating clients and transactions to detect any suspicions of money laundering, fraud and/or terrorist financing activities.
 - Conducting searches, gathering and analyzing data from internal sources, the Internet and commercial database.
 - Submitting enquiry with business or Compliance contacts within Citi for further authorization. 
